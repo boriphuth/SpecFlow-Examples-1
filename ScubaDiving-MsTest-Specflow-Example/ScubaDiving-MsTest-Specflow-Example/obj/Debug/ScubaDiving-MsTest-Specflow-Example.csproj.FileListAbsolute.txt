@@ -1,0 +1,9 @@
+c:\users\srand\documents\visual studio 2013\Projects\ScubaDiving-MsTest-Specflow-Example\ScubaDiving-MsTest-Specflow-Example\obj\Debug\ScubaDiving-MsTest-Specflow-Example.csprojResolveAssemblyReference.cache
+c:\users\srand\documents\visual studio 2013\Projects\ScubaDiving-MsTest-Specflow-Example\ScubaDiving-MsTest-Specflow-Example\bin\Debug\ScubaDiving-MsTest-Specflow-Example.dll.config
+c:\users\srand\documents\visual studio 2013\Projects\ScubaDiving-MsTest-Specflow-Example\ScubaDiving-MsTest-Specflow-Example\bin\Debug\ScubaDiving-MsTest-Specflow-Example.dll
+c:\users\srand\documents\visual studio 2013\Projects\ScubaDiving-MsTest-Specflow-Example\ScubaDiving-MsTest-Specflow-Example\bin\Debug\ScubaDiving-MsTest-Specflow-Example.pdb
+c:\users\srand\documents\visual studio 2013\Projects\ScubaDiving-MsTest-Specflow-Example\ScubaDiving-MsTest-Specflow-Example\bin\Debug\TechTalk.SpecFlow.dll
+c:\users\srand\documents\visual studio 2013\Projects\ScubaDiving-MsTest-Specflow-Example\ScubaDiving-MsTest-Specflow-Example\obj\Debug\ScubaDiving-MsTest-Specflow-Example.dll
+c:\users\srand\documents\visual studio 2013\Projects\ScubaDiving-MsTest-Specflow-Example\ScubaDiving-MsTest-Specflow-Example\obj\Debug\ScubaDiving-MsTest-Specflow-Example.pdb
+c:\users\srand\documents\visual studio 2013\Projects\ScubaDiving-MsTest-Specflow-Example\ScubaDiving-MsTest-Specflow-Example\bin\Debug\ScubaDiving.dll
+c:\users\srand\documents\visual studio 2013\Projects\ScubaDiving-MsTest-Specflow-Example\ScubaDiving-MsTest-Specflow-Example\bin\Debug\ScubaDiving.pdb

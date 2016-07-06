@@ -1,0 +1,4 @@
+c:\users\srand\documents\visual studio 2013\Projects\ScubaDiving-MsTest-Specflow-Example\ScubaDiving\bin\Debug\ScubaDiving.dll
+c:\users\srand\documents\visual studio 2013\Projects\ScubaDiving-MsTest-Specflow-Example\ScubaDiving\bin\Debug\ScubaDiving.pdb
+c:\users\srand\documents\visual studio 2013\Projects\ScubaDiving-MsTest-Specflow-Example\ScubaDiving\obj\Debug\ScubaDiving.dll
+c:\users\srand\documents\visual studio 2013\Projects\ScubaDiving-MsTest-Specflow-Example\ScubaDiving\obj\Debug\ScubaDiving.pdb
